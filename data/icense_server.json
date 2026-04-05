@@ -1,0 +1,10 @@
+{
+  "licenses": [
+    {
+      "key_hash": "sha256_of_activation_key",
+      "status": "active",
+      "machine_id": "",
+      "expires_on": "2029-04-05"
+    }
+  ]
+}
